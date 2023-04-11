@@ -112,6 +112,7 @@
 			knownRegions = (
 				en,
 				Base,
+				ja,
 			);
 			mainGroup = 305D5F5429BA144A00EB26E7;
 			productRefGroup = 305D5F5E29BA144A00EB26E7 /* Products */;
